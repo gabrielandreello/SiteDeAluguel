@@ -5,7 +5,7 @@ function sendEmail(email, nome, telefone, id, message) {
         service: 'gmail',
         auth: {
             user: 'sitedealuguel123@gmail.com',
-            pass: '123sitedealuguel'
+            pass: 'senha_do_email'
         }
     });
 
