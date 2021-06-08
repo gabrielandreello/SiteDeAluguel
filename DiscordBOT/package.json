@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.6.1"
+  }
+}
